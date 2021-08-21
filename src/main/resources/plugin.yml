@@ -1,0 +1,6 @@
+name: Mo4a
+version: '${project.version}'
+main: plugins.main.mo4a.Mo4a
+authors: [ ya ]
+description: Плагин про мочу
+website: хуй.идинахуй.ком
